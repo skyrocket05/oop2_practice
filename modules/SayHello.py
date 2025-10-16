@@ -1,4 +1,5 @@
 class SayHello:
+    # 2.プログラムの初期化メソッド
     def __init__(self, target="World"):
         self.target = target
 
